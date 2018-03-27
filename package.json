@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-testinomial-generator",
+  "version": "1.0.0",
+  "description": "Testimonial Generator for WhatAStory.in",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manjunath G",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
